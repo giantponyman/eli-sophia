@@ -2,11 +2,11 @@
 .navigation {
   position: sticky;
   top: 0;
+  width: 400px;
+  margin:auto;
   overflow: hidden;
-  background-color: greenyellow;
-  margin: 0;
+  background-color: rgb(89, 148, 0);
   padding: 0;
-  width: 100%;
 }
 .navigation a {
   float: left;
@@ -15,24 +15,28 @@
   text-align: center;
   padding: 0.3em;
   margin-left: 1em;
+  color: white;
+  font-size: 1.5em;
 }
 
 .navigation a:hover {
-  background-color: rgb(249, 120, 210);
-  color: white;
-}
-
-#ourstory {
   background-color: rgb(255, 255, 255);
+  color: rgb(255, 0, 0);
 }
 
-#info {
+div.content {
+  width: 700px;
+  margin: auto;
+  background-color: rgb(255, 255, 255);
+  padding:1em;
 }
 
-#schedule {
-rgb(255, 255, 255);
+body {
+  background-color: rgb(33, 127, 235);
 }
+h1 {
+  margin-top:2em;
+  padding-top:3em;
 
-#faq {
-rgb(255, 255, 255);
+  font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
