@@ -1,0 +1,38 @@
+/* || Navigation */
+.navigation {
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+  background-color: greenyellow;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.navigation a {
+  float: left;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  padding: 0.3em;
+  margin-left: 1em;
+}
+
+.navigation a:hover {
+  background-color: rgb(249, 120, 210);
+  color: white;
+}
+
+#ourstory {
+  background-color: rgb(255, 255, 255);
+}
+
+#info {
+}
+
+#schedule {
+rgb(255, 255, 255);
+}
+
+#faq {
+rgb(255, 255, 255);
+}
