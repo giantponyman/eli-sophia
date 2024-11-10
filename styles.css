@@ -3,7 +3,7 @@
   position: sticky;
   top: 0;
   width: 500px;
-  margin:auto;
+  margin: auto;
   overflow: hidden;
   background-color: rgb(89, 148, 0);
   padding: 0;
@@ -28,15 +28,15 @@ div.content {
   width: 700px;
   margin: auto;
   background-color: rgb(255, 255, 255);
-  padding:1em;
+  padding: 1em;
 }
 
 body {
   background-color: rgb(33, 127, 235);
 }
 h1 {
-  margin-top:2em;
-  padding-top:3em;
+  margin-top: 2em;
+  padding-top: 3em;
 
-  font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  font-family: "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
