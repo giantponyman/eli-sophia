@@ -33,7 +33,7 @@ div.content {
 
 body {
   background-image: url("images/camp1.jpg");
-  }
+}
 
 h1 {
   margin-top: 2em;
@@ -42,4 +42,6 @@ h1 {
   font-family: "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
-p {font-size: 1em;}
+p {
+  font-size: 1em;
+}
