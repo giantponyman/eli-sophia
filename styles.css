@@ -19,27 +19,39 @@
   font-size: 1.2em;
 }
 
+#home {
+  margin: auto;
+  text-align: center;
+  width: 90%;
+  padding-top: 3em;
+  padding-bottom: 5em;
+  border: black 1px solid;
+  background-color: rgb(235, 246, 252);;
+}
 .navigation a:hover {
   background-color: rgb(255, 255, 255);
-  color: rgb(255, 0, 0);
+  color: rgb(143, 109, 0);
 }
 
 div.content {
   max-width: 700px;
   margin: auto;
   background-color: rgb(255, 255, 255);
-  padding: 1em;
+  padding: 2em;
+  
 }
 
 body {
-  background-image: url("images/camp1.jpg");
+  background-image: url(images/bigpondcrop.jpg);
+  cursor: url(images/leaf2.ico), auto;
 }
 
 h1 {
   margin-top: 2em;
-  padding-top: 3.5em;
+  padding-top: 5em;
   font-size: 1.5em;
-  font-family: "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-family: serif;
+  color: rgb(187, 42, 16);
 }
 
 p {
