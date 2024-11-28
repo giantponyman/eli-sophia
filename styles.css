@@ -19,6 +19,7 @@
   font-size: 1.2em;
 }
 
+
 #home {
   margin: auto;
   text-align: center;
@@ -54,6 +55,12 @@ h1 {
   color: rgb(187, 42, 16);
 }
 
+h2 {
+
+  font-size: 1.2em;
+  font-family: serif;
+  color: rgb(151, 103, 0);
+}
 p {
   font-size: 1em;
 }
